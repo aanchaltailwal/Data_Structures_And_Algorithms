@@ -19,6 +19,11 @@ public class addAndUpdate {
 		myArray[2] = 10000;  //UPDATING VALUE
 		//myArray[5] = 52;     //index out of bound 
 		printArray(myArray); 
+		System.out.println(myArray.length); //ARRAY LENGTH
+		System.out.println(myArray[myArray.length-1]); //LAST INDEX VALUE
+		
+		int[] arr = {5,1,8};
+		printArray(arr);
 		
 	}
 	public static void main (String[] args) {
