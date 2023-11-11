@@ -22,7 +22,7 @@ public class addAndUpdate {
 		System.out.println(myArray.length); //ARRAY LENGTH
 		System.out.println(myArray[myArray.length-1]); //LAST INDEX VALUE
 		
-		int[] arr = {5,1,8};
+		int[] arr = {5,1,8};   //DIRECT ASSIGN VALUES TO AN ARRAY
 		printArray(arr);
 		
 	}
