@@ -13,8 +13,8 @@ public class resizeArray {
 		for(int i = 0; i < arr.length; i++) {
 			temp[i] = arr[i];	
 		}
-		arr=temp;
-		return arr;
+		return temp;
+		 
 	}
 
 	public static void main(String[] args) {
