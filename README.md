@@ -1,3 +1,3 @@
 # Data_Structures_And_Algorithms
 
-this repo consists my DSA practice questions in java
+this repository consists my DSA practice questions in java
