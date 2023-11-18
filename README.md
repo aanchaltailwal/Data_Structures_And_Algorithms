@@ -1,3 +1,3 @@
 # Data_Structures_And_Algorithms
 
-This Repository connsist of my practiced DSA Questions
+This Repository connsist of my practiced DSA Questions in JAVA Programming language
